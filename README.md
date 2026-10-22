@@ -1,138 +1,227 @@
-# 🎨 نوبت مارکت | NOBAT MARKET
+# تتویار (TATTOOYAR) 🎨
 
-<div align="center">
+**پلتفرم رزرو تتو و مدیریت کسب‌وکارها در ایران**
 
-### پلتفرم حرفه‌ای بازار و رزرو تتو در ایران
+> این پروژه یک **پروژه شخصی** است و طراحی و توسعه آن توسط **محمدرضا چنگیزی** انجام شده است.  
+> وب‌سایت شخصی: **وب ویژن**
 
-**طراحی و توسعه کامل توسط محمدرضا چنگیزی**
-
-[![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
-[![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?style=for-the-badge&logo=prisma)](https://www.prisma.io/)
-
-<br>
-
-**🇮🇷 توسعه‌دهنده ایرانی | Full-Stack Developer**  
-🌐 وب‌سایت شخصی: [Web Vision](https://webvision.ir)
-
-</div>
+تتویار یک پلتفرم جامع برای اتصال هنرمندان تتو با مشتریان و مدیریت رزرو کسب‌وکارها است؛ با تمرکز ویژه بر حوزه تتو. این پروژه با استفاده از جدیدترین تکنولوژی‌های وب ساخته شده و نیازهای یک کسب‌وکار SaaS در حوزه رزرو و مدیریت نوبت را پوشش می‌دهد.
 
 ---
 
-## 🔥 معرفی پروژه
+## 💎 نکات کلیدی
 
-**نوبت مارکت** یک پلتفرم کامل SaaS برای اتصال هنرمندان تتو و مشتریان در ایران است.  
-از جستجوی هنرمند و رزرو آنلاین گرفته تا پرداخت امن و مدیریت کامل کسب‌وکار، همه چیز در یک جا جمع شده.
-
-این پروژه از صفر تا صد توسط **محمدرضا چنگیزی** طراحی و کدنویسی شده و به عنوان یکی از نمونه‌کارهای اصلی در پورتفولیو قرار گرفته است.
-
----
-
-## 💎 چرا این پروژه خاص است؟
-
-| ویژگی | توضیح |
-|-------|-------|
-| 🎯 **کامل‌ترین پلتفرم تتو ایران** | از کشف هنرمند تا پرداخت و مراقبت بعد از تتو |
-| 🔒 **امنیت بانکی** | پرداخت زرین‌پال + احراز هویت OTP + JWT |
-| 🌑 **طراحی پریمیوم** | رابط تاریک و لوکس با Tailwind + Shadcn UI |
-| ⚡ **عملکرد بالا** | Next.js 14 App Router + Sharp + Redis |
-| 📈 **SEO قدرتمند** | Sitemap پویا + OpenGraph + ساختار URL بهینه |
-| 🧩 **معماری تمیز** | TypeScript کامل + ماژولار و مقیاس‌پذیر |
-| 🇮🇷 **پشتیبانی کامل RTL** | بهترین تجربه فارسی و راست‌به‌چپ |
-| 📊 **داشبورد حرفه‌ای** | آمار، تحلیل، مدیریت کاربران و محتوا |
+- **پلتفرم رزرو تتو و مدیریت کسب‌وکارها:** از کشف هنرمند تا پرداخت و مدیریت رزرو
+- **امنیت:** پرداخت از طریق زرین‌پال، احراز هویت OTP، رمزنگاری JWT
+- **طراحی پریمیوم:** رابط کاربری تاریک و زیبا با Tailwind CSS و Shadcn UI
+- **عملکرد بالا:** Next.js 14 App Router، بهینه‌سازی تصویر با Sharp، کش Redis
+- **SEO قوی:** Sitemap پویا، متادیتای OpenGraph، ساختار URL بهینه
+- **قابل توسعه:** کد TypeScript تمیز، معماری ماژولار، آماده مقیاس‌پذیری
+- **پشتیبانی RTL:** پشتیبانی کامل از زبان فارسی و راست به چپ
+- **داشبورد مدیریت:** آمار، تحلیل، مدیریت کاربران و محتوا
 
 ---
 
 ## ✨ امکانات کلیدی
 
-### 👤 برای مشتریان
-- جستجوی پیشرفته هنرمندان (سبک، شهر، قیمت، امتیاز)
-- رزرو آنلاین با تقویم تعاملی
-- پرداخت امن از طریق زرین‌پال
-- چت مستقیم با هنرمند
-- ثبت نظر و امتیاز
-- ذخیره نمونه‌کارهای مورد علاقه
+### برای مشتریان
+- 🔍 جستجوی پیشرفته هنرمندان با فیلتر سبک، شهر، قیمت و امتیاز
+- 📅 رزرو آنلاین با تقویم تعاملی
+- 💳 پرداخت امن از طریق درگاه زرین‌پال
+- 💬 چت مستقیم با هنرمندان
+- ⭐ ثبت نظر و امتیاز
+- 📌 ذخیره نمونه‌کارهای مورد علاقه
 
-### 👨‍🎨 برای هنرمندان
-- داشبورد مدیریت رزروها
-- مدیریت نمونه‌کار و تتوهای فلش
-- تنظیم برنامه کاری و زمان‌های در دسترس
-- کیف پول و مدیریت درآمد
-- دریافت درخواست‌های سفارشی
+### برای هنرمندان
+- 📊 داشبورد مدیریت رزروها
+- 🖼️ مدیریت نمونه‌کارها و تتوهای فلش
+- ⏰ تنظیم برنامه کاری و زمان‌های در دسترس
+- 💰 کیف پول و مدیریت درآمد
+- 📨 دریافت درخواست‌های سفارشی
 
-### 🛠️ برای مدیران
-- داشبورد آمار و تحلیل
-- مدیریت کاربران و پلن‌ها
-- سیستم مدیریت محتوا (CMS)
-- مدیریت پرداخت‌ها و برداشت‌ها
+### برای مدیران
+- 📈 داشبورد آمار و تحلیل
+- 👥 مدیریت کاربران و پلن‌ها
+- 📝 مدیریت محتوا (CMS)
+- 💸 مدیریت پرداخت‌ها و برداشت‌ها
 
 ---
 
-## 🛠️ تکنولوژی‌های استفاده شده
+## 🛠️ تکنولوژی‌ها
 
 | لایه | تکنولوژی |
-|------|----------|
+| --- | --- |
 | **فرانت‌اند** | Next.js 14 (App Router) + React 18 + TypeScript |
 | **استایل** | Tailwind CSS + Shadcn UI |
 | **بک‌اند** | Next.js Server Actions + Prisma ORM |
 | **دیتابیس** | PostgreSQL + Redis |
 | **احراز هویت** | NextAuth v4 (OTP + JWT) |
 | **پرداخت** | زرین‌پال |
-| **پردازش تصویر** | Sharp + Storage (Local / S3) |
-| **اعلان‌ها** | کاوه‌نگار (SMS) + Resend (Email) |
+| **آپلود تصویر** | Sharp (پردازش سمت سرور) + Storage Local/S3 |
+| **اعلان‌ها** | Kavehnegar (SMS) + Resend (Email) [Stub] |
 
 ---
 
-## 🚀 راه‌اندازی سریع
+## 📋 پیش‌نیازها
+
+- **Node.js** 18.17+ (ترجیحاً 20 LTS)
+- **PostgreSQL** 14+
+- **Redis** 6+ (اختیاری برای MVP)
+- **npm** یا **yarn**
+
+---
+
+## 🚀 راه‌اندازی محلی
+
+### ۱. کلون کردن پروژه
 
 ```bash
-# کلون کردن پروژه
-git clone https://github.com/YOUR_USERNAME/nobat-market.git
-cd nobat-market
-
-# نصب پکیج‌ها
-npm install
-
-# کپی فایل محیطی
-cp .env.example .env
-
-# راه‌اندازی دیتابیس
-npx prisma db push
-npm run db:seed
-
-# اجرای پروژه
-npm run devپروژه روی آدرس زیر اجرا می‌شود:
-
-👉 http://localhost:3000📁 ساختار پروژهtextsrc/
-├── app/
-│   ├── (public)/       # صفحات عمومی
-│   ├── (client)/       # پنل مشتری
-│   ├── (artist)/       # پنل هنرمند
-│   ├── (admin)/        # پنل مدیریت
-│   └── api/
-├── components/
-│   ├── ui/             # کامپوننت‌های Shadcn
-│   ├── features/       # کامپوننت‌های بیزینس
-│   └── layout/
-├── lib/
-├── services/           # Server Actions
-├── types/
-└── constants/🔧 دستورات مفیدBashnpm run dev          # اجرای حالت توسعه
-npm run build        # بیلد پروژه
-npm run start        # اجرای نسخه پروداکشن
-npm run lint         # بررسی کد
-npm run typecheck    # بررسی تایپ‌ها
-
-npm run db:generate  # تولید Prisma Client
-npm run db:push      # اعمال اسکیما
-npm run db:seed      # داده‌های نمونه
-npm run db:studio    # باز کردن Prisma Studio👨‍💻 درباره‌ی توسعه‌دهندهاین پروژه به‌طور کامل توسط محمدرضا چنگیزی طراحی، کدنویسی و پیاده‌سازی شده است.
-🇮🇷 توسعه‌دهنده فول‌استک ایرانی
-🌐 وب‌سایت شخصی: Web Vision
-💼 تمرکز روی ساخت محصولات واقعی، مقیاس‌پذیر و با کیفیت بالا
-
-ساخته شده با ❤️ توسط محمدرضا چنگیزی
-Web Vision
-
+git clone <REPOSITORY_URL>
+cd tattooyar
 ```
+
+### ۲. نصب وابستگی‌ها
+
+```bash
+npm install
+```
+
+### ۳. پیکربندی متغیرهای محیطی
+
+```bash
+cp .env.example .env
+```
+
+فایل `.env` را ویرایش کنید:
+
+```env
+# دیتابیس
+DATABASE_URL="postgresql://user:password@localhost:5432/tattooyar"
+
+# NextAuth
+NEXTAUTH_SECRET="یک رشته تصادفی حداقل ۳۲ کاراکتر"
+NEXTAUTH_URL="http://localhost:3000"
+
+# Redis (اختیاری)
+REDIS_URL="redis://localhost:6379"
+
+# زرین‌پال (اختیاری برای توسعه)
+PAYMENT_MODE="mock"
+ZARINPAL_MERCHANT_ID=""
+
+# آدرس اپلیکیشن
+APP_URL="http://localhost:3000"
+```
+
+### ۴. راه‌اندازی دیتابیس
+
+```bash
+# ایجاد دیتابیس و اعمال اسکیما
+npx prisma db push
+
+# پر کردن دیتابیس با داده‌های نمونه
+npm run db:seed
+```
+
+### ۵. اجرای پروژه
+
+```bash
+npm run dev
+```
+
+پروژه در `http://localhost:3000` اجرا می‌شود.
+
+---
+
+## 📁 ساختار پروژه
+
+```text
+src/
+├── app/
+│ ├── (public)/          # صفحات عمومی (بدون احراز هویت)
+│ │ ├── artists/         # پروفایل هنرمندان
+│ │ ├── flash/           # تتوهای فلش
+│ │ ├── inspiration/     # گالری الهام
+│ │ └── page/[slug]/     # صفحات CMS
+│ ├── (client)/          # پنل مشتری
+│ │ ├── dashboard/
+│ │ ├── bookings/
+│ │ ├── messages/
+│ │ └── notifications/
+│ ├── (artist)/          # پنل هنرمند
+│ │ ├── dashboard/
+│ │ ├── portfolio/
+│ │ ├── flash/
+│ │ ├── availability/
+│ │ └── bookings/
+│ ├── (admin)/           # پنل مدیریت
+│ │ ├── dashboard/
+│ │ ├── users/
+│ │ ├── bookings/
+│ │ ├── finance/
+│ │ └── cms/
+│ └── api/               # API routes
+├── components/
+│ ├── ui/                # کامپوننت‌های Shadcn
+│ ├── features/          # کامپوننت‌های بیزینس
+│ └── layout/            # کامپوننت‌های لایوت
+├── lib/                 # توابع کمکی
+├── services/            # Server Actions
+├── types/               # تایپ‌های TypeScript
+└── constants/           # ثابت‌ها
+```
+
+---
+
+## 🔧 دستورات مفید
+
+```bash
+# توسعه
+npm run dev          # اجرای سرور توسعه
+npm run build        # بیلد پروژه
+npm run start        # اجرای پروژه بیلد شده
+npm run lint         # بررسی کد
+npm run typecheck    # بررسی تایپ
+
+# دیتابیس
+npm run db:generate  # تولید کلاینت Prisma
+npm run db:push      # اعمال اسکیما به دیتابیس
+npm run db:seed      # پر کردن با داده نمونه
+npm run db:studio    # باز کردن Prisma Studio
+npm run db:reset     # ریست کامل دیتابیس
+
+# Docker
+npm run docker:up    # اجرای Docker Compose
+npm run docker:down  # توقف Docker Compose
+```
+
+---
+
+## 📝 راهنمای نصب فونت‌ها
+
+### فونت‌های مورد نیاز
+
+| فونت | لینک دانلود | استفاده |
+| --- | --- | --- |
+| **ساحل** | [دانلود](https://github.com/rastikerdar/sahel-font/releases) | فونت پیش‌فرض |
+| **وزیرمتن** | [دانلود](https://github.com/rastikerdar/vazirmatn/releases) | فونت جایگزین |
+| **لاله‌زار** | [دانلود](https://fonts.google.com/specimen/Lalezar) | فونت تیترها |
+
+### مراحل نصب
+
+```bash
+# ۱. ایجاد دایرکتوری فونت
+mkdir -p public/fonts
+
+# ۲. فایل‌های .woff2 را دانلود و در public/fonts/ قرار دهید:
+# - public/fonts/sahel.woff2
+# - public/fonts/vazirmatn.woff2
+# - public/fonts/lalezar.woff2
+
+# ۳. پروژه را مجدداً اجرا کنید
+npm run dev
+```
+
+### تغییر فونت از پنل مدیریت
+
+به `admin/settings` بروید و فونت مورد نظر را انتخاب کنید.
